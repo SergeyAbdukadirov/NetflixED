@@ -1,0 +1,17 @@
+#background{
+    filter: brightness(0.5);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background: #333;
+    width: 100%;
+
+}
+#logo{
+    position: absolute;
+    width: 167px;
+    padding-top: 1.5rem;
+    height: 45px;
+    left: 100px;
+    z-index: 1;
+}
