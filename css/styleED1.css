@@ -1,0 +1,14 @@
+body {
+    background: rgba(239, 221, 117, 0.63);
+    }
+body h3 {
+    color: #ff0000;
+}
+body > header > h1{
+    background: #f6c805;
+    color: #050000;
+}
+body > h2 > i{
+    background: #000000;
+    color: #ffffff;
+}
